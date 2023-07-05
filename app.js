@@ -1,0 +1,1 @@
+let dia = ["lunes", "martes", "miercoles"];
