@@ -5,6 +5,6 @@
  }
     console.log(datos.nombre + " es de " + datos.team );
     console.log(datos.edad);
-
+    console.log(datos.edad);
 
  
