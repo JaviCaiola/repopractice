@@ -1,4 +1,4 @@
 function saludar(nombre){
     return "Hola "+nombre;
 }
-console.log(saludar("ESTELA"));
+console.log(saludar("Pejelagarto"))
