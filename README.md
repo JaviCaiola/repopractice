@@ -15,7 +15,8 @@
  
  Para empezar a resolver la actividad tratamos de sincronizarnos entre todos los integrantes y acordar un horario justo para todos, primeramente vimos que todos manejamos horarios distintos y se llego a la conclusion de que realmente no era necesario hacer un encuentro con todos los integrantes en el mismo momento, por ende se decidio hacer un doble encuentro en horarios distintos.
 
- Ahora si, en cuanto al desafio nos organizamos e hicimos una comprension de lo que pedian los enunciados, logrando que el equipo puedan ser colaboradores del repositorio, y luego clonar al mismo en su entorno de trabajo. Continuando con los puntos a seguir, empezamos a trabajar desde nuestra zona de trabajo creando archivos y poniendonos de acuerdo a la hora de tener que traer archivos remotos a nuestro espacio local y al contrario cuando mandabamos nuestros cambios a GitHub. 
+ Ahora si, en cuanto al desafio nos organizamos e hicimos una comprension de lo que pedian los enunciados, logrando que el equipo puedan ser colaboradores del repositorio, y luego clonar al mismo en su entorno de trabajo. Continuando con los puntos a seguir, empezamos a trabajar desde nuestra zona personal creando archivos y poniendonos de acuerdo a la hora de tener que traer elementos remotos a nuestro espacio local y al contrario cuando mandabamos nuestros cambios a GitHub. 
+ 
  Inclusive trabajamos con el tema de las Branch's, crear una nueva rama, hacer modificaciones en ella y luego fusionarla con la rama principal, que si bien no quedo documentado en imagenes, desde el historial de commits esta disponible.
 ![Captura de pantalla (98)](https://github.com/JaviCaiola/repopractice/assets/114126710/356ff4cc-eace-4cda-ae6a-cd70bd1413b8)
 
