@@ -10,7 +10,7 @@
 ☞ Anachuri Maximiliano  
 ☞ Sanches Monica Gissel
 
-## Resolucion de Conflicto en git: trabajo colaborativo
+## Resolución de conflictos en git: trabajo colaborativo
 > Forzando al error desde varias perspectivas - 5/7/23 
  
  Para empezar a resolver la actividad tratamos de sincronizarnos entre todos los integrantes y acordar un horario justo para todos, primeramente vimos que todos manejamos horarios distintos y se llego a la conclusion de que realmente no era necesario hacer un encuentro con todos los integrantes en el mismo momento, por ende se decidio hacer un doble encuentro en horarios distintos.
