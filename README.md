@@ -11,7 +11,8 @@
 ☞ Sanches Monica Gissel
 
 ## Resolucion de Conflicto en git: trabajo colaborativo
-> Forzando al error desde varias perspectivas - 5/7/23
+> Forzando al error desde varias perspectivas - 5/7/23 
+ 
  Para empezar a resolver la actividad tratamos de sincronizarnos entre todos los integrantes y acordar un horario justo para todos, primeramente vimos que todos manejamos horarios distintos y se llego a la conclusion de que realmente no era necesario hacer un encuentro con todos los integrantes en el mismo momento, por ende se decidio hacer un doble encuentro en horarios distintos.
 
  Ahora si, en cuanto al desafio nos organizamos e hicimos una comprension de lo que pedian los enunciados, logrando que el equipo puedan ser colaboradores del repositorio, y luego clonar al mismo en su entorno de trabajo. Continuando con los puntos a seguir, empezamos a trabajar desde nuestra zona de trabajo creando archivos y poniendonos de acuerdo a la hora de tener que traer archivos remotos a nuestro espacio local y al contrario cuando mandabamos nuestros cambios a GitHub. 
